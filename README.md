@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo **registrar minha evolução nos estudos de Java e Spring Boot**, reunindo exemplos práticos, testes e pequenos projetos desenvolvidos ao longo do aprendizado.
 
-Não se trata de um projeto final, mas de um **ambiente de estudo contínuo**, onde exploro conceitos, boas práticas e ferramentas do ecossistema Java.
+A medida que o projeto for evoluindo, irei atualizando, sempre mantendo boas práticas e documentando todo meu progresso.
 
 ---
 
@@ -36,7 +36,7 @@ Não se trata de um projeto final, mas de um **ambiente de estudo contínuo**, o
 - Servir como referência para estudos futuros
 
 ---
-
+![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge&logo=github)
 
 📌 *Repositório criado para fins educacionais.*
 
